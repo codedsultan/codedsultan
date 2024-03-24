@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As an experienced web developer and enthusiast, I am well-versed in building powerful applications using the powerful combination of PHP and Javascript. I have built applications Laravel,InertiaJs,Vue.js,NodeJs and NuxtJs. While my primary focus in recent times is on the backend, I possess an intermediate proficiency in frontend technologies, allowing me to contribute effectively across the full stack. I like to code with Laravel and Vue Js. I am trying to be more creative and will come back soon with something unique. insha-allah!..</p>
+<p align="left">As an experienced web developer and enthusiast, I am well-versed in building powerful applications using the powerful combination of PHP and Javascript. I have built applications with Laravel,InertiaJs,Vue.js,NodeJs and NuxtJs. While my primary focus in recent times is on the backend, I possess an intermediate proficiency in frontend technologies, allowing me to contribute effectively across the full stack. I like to code with Laravel and Vue Js. I am trying to be more creative and will come back soon with something unique. insha-allah!..</p>
 
 ###
 
