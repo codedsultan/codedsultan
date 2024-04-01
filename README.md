@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codedsultan&label=Profile%20views&color=0e75b6&style=flat" alt="codedsultan" /> </p>
+
 <p align="left">🎓  I possess the Certificatie in IT of the British Computer Society (BCS).<br>💡  I'm passionate about Web Dev & like to explore new technologies and develop software solutions and quick hacks.<br>🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️  You can knock me an email at <a href="mailto:codesultan369@gmail.com">codesultan369@gmail.com</a> I'll try to respond as soon as I can.<br>🔭 I’m currently looking for new opportunities. Available for Work.</p>
 
 ###
